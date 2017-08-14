@@ -10,4 +10,6 @@ Since coming to Dallas, I've been getting up to speed on the in's and out's of t
 
 I'm currently working on getting certified in AWS, at least the associate exams (architect / sysops ) and maybe the advanced networking specialty exam.  In addition to that, I found an appreciation for the simplicitiy and widespread use of Python as a programming language to develop proficiency in it as well.  As for automation, which is a part and parcel of any cloud engineer's toolkit, I have leaned towards Ansible #1, primarily due to its connection with python, and Docker for containerization.  I've also had to pick up some javascript working JSON when developing Alexa skills or setting up IoT hubs in Azure. 
 
+As far as coding and development is concerned, I'm still deciding on my focus.  There are so many stacks and paths to developmennt you could take, and there are numerous learning resources, so it's a tough decision.  Focus is the biggest challenge when there is so much stuff available.  But I'm looking at starting off with either Python or Javascript, as well as SQL.
+
 
